@@ -1,0 +1,53 @@
+@media print {
+  body {
+    background: white !important;
+    color: black !important;
+  }
+  
+  .glass-card {
+    border: 1px solid #e2e8f0 !important;
+    box-shadow: none !important;
+    background: white !important;
+    break-inside: avoid;
+  }
+
+  .print\:hidden {
+    display: none !important;
+  }
+
+  nav, footer, .chatbot-container, .theme-toggle {
+    display: none !important;
+  }
+
+  main {
+    padding-top: 0 !important;
+  }
+
+  .mx-auto {
+    max-width: 100% !important;
+    padding: 0 !important;
+  }
+
+  h1 {
+    font-size: 24pt !important;
+    margin-bottom: 20px !important;
+  }
+
+  .grid {
+    display: block !important;
+  }
+
+  .grid > * {
+    margin-bottom: 20px !important;
+    width: 100% !important;
+  }
+
+  table {
+    page-break-inside: auto;
+  }
+
+  tr {
+    page-break-inside: avoid;
+    page-break-after: auto;
+  }
+}
