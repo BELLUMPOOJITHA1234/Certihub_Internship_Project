@@ -48,9 +48,7 @@ CertiHub bridges the gap between visual credentials and career intelligence thro
 - **Automated Extraction** — Using Llama-3.2 Vision to "read" certificates like a human with 95%+ accuracy.
 - **Smart Issuance** — Automates institutional workflows, mapping visual certificates to employee records via AI name-matching.
 - **Dynamic Insights** — Transforms static files into a real-time skills matrix and institutional analytics dashboard.
-
----
-
+  
 ## Key Features
 
 ### Self-Healing AI Extraction
