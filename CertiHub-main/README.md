@@ -15,7 +15,6 @@ CertiHub transforms static professional certificates into a dynamic, strategic c
 </div>
 
 ---
-
 ## Table of Contents
 
 - [Problem Statement](#problem-statement)
