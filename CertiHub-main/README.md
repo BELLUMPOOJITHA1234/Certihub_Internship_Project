@@ -1,5 +1,4 @@
 <div align="center">
-
 # CertiHub
 
 **The Intelligent Credential Hub for the Modern Professional**
